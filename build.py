@@ -12,7 +12,7 @@ from pathlib import Path
 ROOT = Path(__file__).parent
 SITE_NAME = "旅行慳家"
 SITE_TAGLINE = "香港旅遊優惠碼集合"
-SITE_URL = "https://example.com"
+SITE_URL = "https://felixcch.github.io/hk-travel-promo-codes"
 ADSENSE_CLIENT = "ca-pub-0000000000000000"
 AFFILIATE_TAG = "?aid=DEMO-AFFILIATE-ID"  # 換成各平台聯盟連結的追蹤參數
 
